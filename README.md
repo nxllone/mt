@@ -1,2 +1,4 @@
-# DXR-discord-multi-tool
-new multi tool v1 hella cool raiding, user sniping, vanity sniping, nitro sniping **adding more soon**
+# (worked on expect errors)                                
+
+                              [Multi-Tool] DXR
+        Dis a discord API script that takes advantage of Discords WEAK API
