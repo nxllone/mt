@@ -13,15 +13,15 @@
     DXR is a discord API script that takes advantage of Discords WEAK API
     <br/>
     <br/>
-    <a hre"">Discord</a>
-    .
+    <a hre"VERSION 1"></a>
   </p>
 </p>
 
 ## About The Project
 
 <p align="center">
-  <img alt="preview" src="[https://github.com/Xvirus-Team/Xvirus-Tools/assets/89728480/842e977d-f4d3-47c4-b222-b3e58fedf979](https://cdn.discordapp.com/attachments/1206191296755273752/1206215773794738237/image.png?ex=65db32fa&is=65c8bdfa&hm=1552df0c2242f71d6ee09ec7ea14a310b183207bc64f7bfc9db82f87fa00be3d&)">
+  <img alt="preview" src="![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/c07d5ffb-3639-475e-a4ff-2e96e2d2df2e)
+)">
 </p>
 
 ## Authors (Only d3xr worked on DXR)
