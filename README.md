@@ -1,6 +1,3 @@
-# OUTDATED (FLAGGED, wont be worked on)
-# checkout https://discord.gg/nexustool for a good raider that is unflagged and uhq
-
 <br/>
 <p align="center">
   <a href="[https://github.com/Xvirus-Team/xvirus-tools](https://github.com/vccie/DXR-discord-multi-tool/)">
@@ -20,8 +17,8 @@
 ## About The Project
 
 <p align="center">
-  <img alt="" src="![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/c07d5ffb-3639-475e-a4ff-2e96e2d2df2e)
-)">
+  <img src="![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/312458f0-2913-4d46-ad3d-f2a7294bb5fb)"/>
+
 </p>
 
 ## Authors (Only d3xr worked on DXR)
