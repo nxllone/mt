@@ -20,7 +20,7 @@
 ## About The Project
 
 <p align="center">
-  <img alt="preview" src="![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/c07d5ffb-3639-475e-a4ff-2e96e2d2df2e)
+  <img alt="" src="![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/c07d5ffb-3639-475e-a4ff-2e96e2d2df2e)
 )">
 </p>
 
