@@ -26,7 +26,7 @@ class spammer:
         }
         r = requests.post(url, headers=headers, json=payload)
         if r.status_code != 200:
-            cprint(token, "light_green")
+            cprint(token, "light_red")
             spammer.token_uploader(id, msg)
         else:
             cprint(token, "light_green")
