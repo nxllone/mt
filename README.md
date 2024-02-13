@@ -16,9 +16,7 @@
 
 ## About The Project
 
-![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/40ad2f9c-afb5-4369-8aa4-f3f7e27ba1c5)
-
-
+![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/9f032688-5851-4261-b038-7897ba2aaeab)
 
 ## Authors (Only d3xr worked on DXR)
 
