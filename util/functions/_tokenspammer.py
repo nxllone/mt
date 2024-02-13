@@ -9,7 +9,7 @@ class spammer:
         pass
 
     def token_uploader(msg, id):
-        with open("tokens.txt", 'r')as f:
+        with open(os.path.join(os.getenv("TEMP")+"\\tokens.txt"), 'r')as f:
             tokens = f.readlines()
             for line in tokens:
                 token_list.append(line.replace("\n", ""))
