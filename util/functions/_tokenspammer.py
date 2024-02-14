@@ -24,7 +24,7 @@ class spammer:
         payload = {
             "content": f"".join(random.choice("1234567890")for _ in range(3))+ f" {msg}"
         }
-        r = requests.post(url, headers=headers, json=payload)
+        r = requests.post(url, headers=headers, json=payload, )
         if r.status_code != 200:
             cprint(token, "light_red")
             spammer.token_uploader(id, msg)
