@@ -88,7 +88,6 @@ if int(choice) == 4:
             sleep(2)
         else:
             with open(os.path.join(os.getenv("TEMP")+"\\tokens.txt"), "w", newline='\n') as f:
-                f.write("#dexr on top\n")
                 f.close()
                 cprint("file created in temp dir", "light_green")
                 print("path : ", os.path.join(os.getenv("TEMP")+"\\tokens.txt"))
