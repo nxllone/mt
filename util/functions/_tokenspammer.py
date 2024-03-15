@@ -17,8 +17,6 @@ class spammer:
             for line in tokens:
                 token_list.append(line.replace("\n", ""))
         while True:
-            if token == "#dexr on top":
-                pass
             for token in token_list:
                 url = f"https://discord.com/api/v9/channels/{id}/messages"
                 headers = {
