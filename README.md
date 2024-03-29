@@ -9,6 +9,7 @@
     <hr>
     <uL>
       <li>adding new features soon :)</li>
+      <li>code adjustments for clear reading</li>
     </uL>
   </body>
 </html>
