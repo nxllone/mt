@@ -22,7 +22,7 @@
       <li>Vanity Sniper</li>
       <li>Vanity Claimer</li>
       <li>Token Checker(validator)</li>
-      <li style="text-decoration: line-through;">Nitro gen</li>
+      <li>Nitro gen</li>
     </ul>
     <hr>
     <br>
