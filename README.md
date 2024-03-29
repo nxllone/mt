@@ -5,7 +5,7 @@
    <h1>Made by - Wrzp</h1><hr><br>report any issues this is a beta version <br>http://dxrv.is-best.net/1.html
     <br>
     <br>
-    <h1>UP COMMING</h1>
+    <h1>💫 UP COMMING</h1>
     <hr>
     <uL>
       <li>adding new features soon :)</li>
@@ -13,7 +13,7 @@
     </uL>
     <br>
     <hr>
-    <h1>Features</h1>
+    <h1>💥 Features</h1>
     <ul>
       <li>User Sniping</li>
       <li>Fast Raider</li>
@@ -22,8 +22,7 @@
       <li>Vanity Sniper</li>
       <li>Vanity Claimer</li>
       <li>Token Checker(validator)</li>
-      <li>Nitro gen</li>
-      <li style="text-decoration: line-through;">Token Onliner</li>
+      <li style="text-decoration: line-through;">Nitro gen</li>
     </ul>
     <hr>
     <br>
