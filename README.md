@@ -2,7 +2,7 @@
   <head>
   </head>
   <body style="text-align: center;">
-    Made by - Wrzp<hr><br>report any issues this is a beta version
+   <h1>Made by - Wrzp</h1><hr><br>report any issues this is a beta version
     <br>
     <br>
     <h1>UP COMMING</h1>
