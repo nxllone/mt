@@ -17,6 +17,6 @@
     <hr>
     Code Made by @Wrap only <br>
     all rights reserved for owning the project<br>
-    **Any project holding our name may not be ours**
+    Any project holding our name may not be ours
   </body>
 </html>
