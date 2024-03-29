@@ -12,6 +12,21 @@
       <li>code adjustments for clear reading</li>
     </uL>
     <br>
+    <hr>
+    <h1>Features</h1>
+    <ul>
+      <li>User Sniping</li>
+      <li>Fast Raider</li>
+      <li>Webhook Spmmer</li>
+      <li>Webhook Deleter</li>
+      <li>Vanity Sniper</li>
+      <li>Vanity Claimer</li>
+      <li>Token Checker(validator)</li>
+      <li>Nitro gen</li>
+      <li style="text-decoration: line-through;">Token Onliner</li>
+    </ul>
+    <hr>
+    <br>
     <h1>⚠ Disclamer</h1>
     <hr>
     Code Made by @Wrap only <br>
