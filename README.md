@@ -31,7 +31,7 @@
     <br>
     <hr>
     <br>
-    <h1>⚠ Disclamer</h1>
+    <h1>⚠ Disclaimer</h1>
     <hr>
     Code Made by @Wrap only <br>
     all rights reserved for owning the project ©<br>
