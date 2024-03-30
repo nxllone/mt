@@ -26,8 +26,8 @@
       ++
     </ul>
     <hr>
-    <h1>Preview<br>![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/81000169-aa98-4dd5-b2e8-d8e90aa48fab)
-    </h1>
+    <h1>Preview<br></h1>
+    ![image](https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/81000169-aa98-4dd5-b2e8-d8e90aa48fab)
     <br>
     <hr>
     <br>
