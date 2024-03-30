@@ -5,11 +5,11 @@
    <h1>Made by - Wrzp</h1><hr><br>report any issues this is a beta version <br>http://dxrv.is-best.net/1.html
     <br>
     <br>
-    <h1>💫 UP COMMING</h1>
+    <h1>💫 UPDATE LOGS </h1>
     <hr>
     <uL>
-      <li>adding new features soon :)</li>
-      <li>code adjustments for clear reading</li>
+      <li>adding new features soon :) ✅</li>
+      <li>code adjustments for clear reading ✅</li>
     </uL>
     <br>
     <hr>
