@@ -10,6 +10,9 @@
     <uL>
       <li>adding new features soon :) ✅</li>
       <li>code adjustments for clear reading ✅</li>
+      <li>
+        invite link bypasser soon discordً.gg/ٰgay ❗️
+      </li>
     </uL>
     <br>
     <hr>
