@@ -16,6 +16,17 @@
     </uL>
     <br>
     <hr>
+    <h1>🤩 Limited time event</h1>
+    <b>Vip functions gonna be added for free </b>
+    <ul>
+      <li>Token Vc joiner</li>
+      <li>Token reaction adder</li>
+      <li>Token fake typing</li>
+      <li>Token info grabber</li>
+      <li>Token dm all</li>
+    </ul>
+    <br>
+    <hr>
     <h1>💥 Features</h1>
     <ul>
       <li>User Sniping</li>
