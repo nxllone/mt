@@ -7,6 +7,7 @@
     <br>
     <h1>💫 UPDATE LOGS </h1>
     <hr>
+    <h3>V1</h3>
     <uL>
       <li>adding new features soon :) ✅</li>
       <li>code adjustments for clear reading ✅</li>
@@ -14,6 +15,14 @@
         invite link bypasser soon discordً.gg/ٰgay ❗️
       </li>
     </uL>
+    <h3>V2</h3>
+    <ul>
+      <li>New functions added</li><br>
+      <li>Replaced functions that had issues</li><br>
+      <li>Code optmizations</li><br>
+      <li>Faster webhook spammer</li><br>
+      <li>Adding the functions of the event soon</li>
+    </ul>
     <br>
     <hr>
     <h1>🤩 Limited time event</h1>
