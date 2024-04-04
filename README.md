@@ -43,7 +43,7 @@
     <hr>
     <h1>💤 Preview<br></h1>
     <img src="https://github.com/vccie/DXR-discord-multi-tool/assets/152461394/6c14d24e-9680-4f98-8380-173581bb75ed">
-    **credits to nexus for the ui**
+    **credits to nexus for the ui**<br>
     **credits to wrzp for the functions**
     <br>
     <hr>
