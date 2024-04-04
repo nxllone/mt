@@ -9,10 +9,10 @@
     <hr>
     <h3>V1</h3>
     <uL>
-      <li>adding new features soon :) ✅</li>
-      <li>code adjustments for clear reading ✅</li>
+      <li>adding new features soon :) </li><br>
+      <li>code adjustments for clear reading</li><br>
       <li>
-        invite link bypasser soon discordً.gg/ٰgay ❗️
+        invite link bypasser soon discordً.gg/ٰgay
       </li>
     </uL>
     <h3>V2</h3>
