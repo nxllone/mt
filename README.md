@@ -2,7 +2,7 @@
   <head>
   </head>
   <body style="text-align: center;">
-   <h1>Made by - Wrzp</h1><hr><br>report any issues this is a beta version <br>(http://niggers.fanclub.rocks/download.html)
+   <h1>Made by - Wrzp</h1><hr><br>report any issues this is a beta version <br>use with https://github.com/vccie/dexv-headers-gen-leak/tree/main -- to avoid rate limit + faster raid
     <br>
     <br>
     <h1>💫 UPDATE LOGS </h1>
