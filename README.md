@@ -11,18 +11,18 @@
     <hr>
     <h3>V1</h3>
     <uL>
-      <li>adding new features soon :) </li><br>
-      <li>code adjustments for clear reading</li><br>
+      <li>adding new features soon :) </li>
+      <li>code adjustments for clear reading</li>
       <li>
         invite link bypasser soon discordً.gg/ٰgay
       </li>
     </uL>
     <h3>V2</h3>
     <ul>
-      <li>New functions added</li><br>
-      <li>Replaced functions that had issues</li><br>
-      <li>Code optmizations</li><br>
-      <li>Faster webhook spammer</li><br>
+      <li>New functions added</li>
+      <li>Replaced functions that had issues</li>
+      <li>Code optmizations</li>
+      <li>Faster webhook spammer</li>
       <li>Adding the functions of the event soon</li>
     </ul>
     <br>
