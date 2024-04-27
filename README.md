@@ -2,9 +2,6 @@
   <head>
   </head>
   <body style="text-align: center;">
-    <center>
-   <h1>Made by - Wrzp<hr><br>use with https://github.com/vccie/dexv-headers-gen-leak/tree/main to avoid rate limit + faster raid</h1>
-      </center>
     <br>
     <br>
     <h1>💫 UPDATE LOGS </h1>
